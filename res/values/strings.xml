@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">goBudget</string>
+    <string name="welcome_budget">Budgets</string>
+    <string name="budget_time">Review Budgets</string>
+    <string name="budget_categories">Set Categories</string>
+    <string name="category_title">Categories</string>
+    <string name="amount_title_label">Amount:</string>
+    <string name="budget_number">Set Budget!</string>
+    <string name="amount_hint">input number type 00.00</string>
+    <string name="time_span_string">Set time span type</string>
+    <string name="day_budget">$/Day:</string>
+    <string name="month_budget">$/Month:</string>
+    <string name="year_budget">$/Year:</string>
+</resources>
